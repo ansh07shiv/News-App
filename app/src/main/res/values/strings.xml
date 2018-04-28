@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Choice News</string>
+    <string name="title_activity_welcome">Choice News</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Choice News</string>
+    <string name="slide_1_desc">The easiest way to know all the whereabouts the World</string>
+
+
+    <string name="slide_3_title">Fast and Lightweight</string>
+    <string name="slide_3_desc">Choose and Read News from your Mobile in the Fastest Way. Concise and Inshort News !</string>
+
+    <string name="slide_4_title">Done</string>
+    <string name="slide_4_desc">Enjoy the Experince, See you on board.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="planets_array">
+        <item>India</item>
+        <item>Germany</item>
+        <item>USA</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
